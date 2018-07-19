@@ -2,49 +2,57 @@
   {
     "name": "Thunder Bird",
     "imageUrl": "http://images.asiatravel.com/Hotel/6033/outdoor-pool.jpg",
-    "price": 100,
+    "price": 5000,
     "priceCurrency": "PHP",
     "lat": 16.612240, 
     "lng": 120.284751
   },
   {
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
+    "name": "San Juan Beach",
+    "imageUrl": "https://i1.wp.com/adventurouslens.com/wp-content/uploads/2017/12/IMG_5087.jpg?resize=696%2C464",
+    "price": Free,
     "priceCurrency": "PHP",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "lat": 16.658495, 
+    "lng": 120.321445
   },
   {
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
-    "price": 150,
+    "name": "Ma-Cho Temple",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/8a/49/ca/photo1jpg.jpg",
+    "price": 50,
     "priceCurrency": "PHP",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "lat": 16.621283,
+    "lng": 120.317486
   },
   {
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
+    "name": "Tangadan Falls",
+    "imageUrl": "https://idrlawimooh.files.wordpress.com/2015/08/dsc_8186.jpg",
+    "price": 30,
     "priceCurrency": "PHP",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "lat": 16.643776,
+    "lng": 120.448784
   },
   {
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "Bahay na Bato",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
+    "price": 120,
+    "priceCurrency": "PHP",
+    "lat": 16.847224,
+    "lng": 120.351725
   },
   {
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "name": "Grapes Farm",
+    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/la-union-grape-farm-COVER-FINAL-1-of-1-846x515.jpg",
+    "price": 100,
+    "priceCurrency": "PHP",
+    "lat": 16.461232,
+    "lng": 120.333892
+  },
+  {
+    "name": "Bahay na Bato",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
+    "price": 120,
+    "priceCurrency": "PHP",
+    "lat": 16.847224,
+    "lng": 120.351725
   }
 ]
