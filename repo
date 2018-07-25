@@ -2,111 +2,111 @@
   {
     "name": "San Juan Beach, La Union",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmvRoSzwrwxMlcX51qgDvPwdVrC8FjAVyZnfbhqxCuAcotsqu",
-    "distance": 108km,
+    "distance": 108,
     "lat": 16.658495, 
     "lng": 120.321445
   },
   {
     "name": "Mall of Asia, Pasay",
     "imageUrl": "http://www.lamudi.com.ph/journal/wp-content/uploads/2015/10/Mall-of-Asia-Complex-as-the-Next-Leading-Business-and-Leisure-District_shutterstock.jpg",
-    "distance": 201km,
+    "distance": 201,
     "lat": 14.535278, 
     "lng": 120.982109
   },
   {
     "name": "Palace in the Sky, Laguna",
     "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/03/PalaceintheSky_08.jpg",
-    "distance": 252km,
+    "distance": 252,
     "lat": 14.119552, 
     "lng": 120.961563
   },
   {
     "name": "Enchanted Kingdom",
     "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2015/12/IMG_1306.jpg",
-    "distance": 239km,
+    "distance": 239,
     "lat": 14.282301,  
     "lng": 121.096709
   },
    {
     "name": "Hanging Coffins, Sagada",
     "imageUrl": "https://c4.staticflickr.com/6/5443/30829383395_36d59547be_b.jpg",
-    "distance": 238km,
+    "distance": 238,
     "lat": 17.082165,   
     "lng": 120.905644
   },
   {
     "name": "Ocean Adventures, Subic",
     "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
-    "distance": 197km,
+    "distance": 197,
     "lat": 14.764645, 
     "lng": 120.253252 
   },
   {
     "name": "Intramuros, Manila",
     "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
-    "distance": 197km,
+    "distance": 197,
     "lat": 14.590367,
     "lng": 120.975748
   }, {
     "name": "Ocean Park, Manila",
     "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
-    "distance": 195km,
+    "distance": 195,
     "lat": 14.579498,
     "lng": 120.972527
   },
   {
     "name": "Magellan's Cross, Cebu",
     "imageUrl": "http://www.cebucitytour.com/wp-content/uploads/2016/01/IMG_7502.jpg",
-    "distance": 1018km,
+    "distance": 1018,
     "lat": 10.293633,
     "lng": 123.901958
   },
   {
     "name": "Cagsawa Ruins, Albay",
     "imageUrl": "https://i.pinimg.com/originals/58/58/65/585865711dbba907acc09448007544ca.jpg",
-    "distance": 654km,
+    "distance": 654,
     "lat": 13.166146,
     "lng": 123.701132
   },
   {
     "name": "Windmills, Bangui",
     "imageUrl": "https://i.pinimg.com/originals/58/58/65/585865711dbba907acc09448007544ca.jpg",
-    "distance": 654km,
+    "distance": 654,
     "lat": 18.529735,
     "lng": 120.689204
   },
   {
     "name": "Baguio, Benguet",
     "imageUrl": "https://cdn-images-1.medium.com/max/1281/1*gGlN-GNPlBNyZSmTcxAV5Q.jpeg",
-    "distance": 93km,
+    "distance": 93,
     "lat": 16.407759,
     "lng": 120.595916
   },
   {
     "name": "Chocolate Hills, Bohol",
     "imageUrl": "https://dw8stlw9qt0iz.cloudfront.net/XuPBnCeozOQXoz6w3oqeVPVvz18=/fit-in/800x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/65ad9ac0-0455-4086-a4f4-1245f697d10e.png",
-    "distance": 1089km,
+    "distance": 1089,
     "lat": 16.407759,
     "lng": 120.595916
   },
   {
     "name": "Siargao Island, ",
     "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/04/magpupungko.jpg",
-    "distance": 1369km,
+    "distance": 1369,
     "lat": 9.855575,
     "lng": 126.045391
   },
   {
     "name": "Resorts World, Manila",
     "imageUrl": "https://lh5.googleusercontent.com/rTguLyzI0fy7U9ILwdS97G95ITlQ7mGXtKc83BBcWIihZ00dR4EUJ8ENkIIJXCl2cNdoIhchiEHvp2JV56-2Q7uSuJDFtqba23uLQw-1Xou6qKEg2OoA2BK7UetZHjfI1Zd6gjWhY6VgQUd0cQ",
-    "distance": 1369km,
+    "distance": 1369,
     "lat": 9.855575,
     "lng": 126.045391
   },
   {
     "name": "Venice Grand Canal, Manila",
     "imageUrl": "https://i0.wp.com/www.edpuno.com/wp-content/uploads/2016/07/Venice-Grand-Canal-BGC.jpg",
-    "distance": 207km,
+    "distance": 207,
     "lat": 14.533875,
     "lng": 121.051078
   }
