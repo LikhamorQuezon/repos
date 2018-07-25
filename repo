@@ -1,58 +1,113 @@
 [
   {
-    "name": "Thunder Bird",
-    "imageUrl": "http://images.asiatravel.com/Hotel/6033/outdoor-pool.jpg",
-    "price": 5000,
-    "priceCurrency": "PHP",
-    "lat": 16.612240, 
-    "lng": 120.284751
-  },
-  {
-    "name": "San Juan Beach",
-    "imageUrl": "https://i1.wp.com/adventurouslens.com/wp-content/uploads/2017/12/IMG_5087.jpg?resize=696%2C464",
-    "price": Free,
-    "priceCurrency": "PHP",
+    "name": "San Juan Beach, La Union",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmvRoSzwrwxMlcX51qgDvPwdVrC8FjAVyZnfbhqxCuAcotsqu",
+    "distance": 108km,
     "lat": 16.658495, 
     "lng": 120.321445
   },
   {
-    "name": "Ma-Cho Temple",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/8a/49/ca/photo1jpg.jpg",
-    "price": 50,
-    "priceCurrency": "PHP",
-    "lat": 16.621283,
-    "lng": 120.317486
+    "name": "Mall of Asia, Pasay",
+    "imageUrl": "http://www.lamudi.com.ph/journal/wp-content/uploads/2015/10/Mall-of-Asia-Complex-as-the-Next-Leading-Business-and-Leisure-District_shutterstock.jpg",
+    "distance": 201km,
+    "lat": 14.535278, 
+    "lng": 120.982109
   },
   {
-    "name": "Tangadan Falls",
-    "imageUrl": "https://idrlawimooh.files.wordpress.com/2015/08/dsc_8186.jpg",
-    "price": 30,
-    "priceCurrency": "PHP",
-    "lat": 16.643776,
-    "lng": 120.448784
+    "name": "Palace in the Sky, Laguna",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/03/PalaceintheSky_08.jpg",
+    "distance": 252km,
+    "lat": 14.119552, 
+    "lng": 120.961563
   },
   {
-    "name": "Bahay na Bato",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
-    "price": 120,
-    "priceCurrency": "PHP",
-    "lat": 16.847224,
-    "lng": 120.351725
+    "name": "Enchanted Kingdom",
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2015/12/IMG_1306.jpg",
+    "distance": 239km,
+    "lat": 14.282301,  
+    "lng": 121.096709
+  },
+   {
+    "name": "Hanging Coffins, Sagada",
+    "imageUrl": "https://c4.staticflickr.com/6/5443/30829383395_36d59547be_b.jpg",
+    "distance": 238km,
+    "lat": 17.082165,   
+    "lng": 120.905644
   },
   {
-    "name": "Grapes Farm",
-    "imageUrl": "https://www.thepinaysolobackpacker.com/wp-content/uploads/2017/03/la-union-grape-farm-COVER-FINAL-1-of-1-846x515.jpg",
-    "price": 100,
-    "priceCurrency": "PHP",
-    "lat": 16.461232,
-    "lng": 120.333892
+    "name": "Ocean Adventures, Subic",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
+    "distance": 197km,
+    "lat": 14.764645, 
+    "lng": 120.253252 
   },
   {
-    "name": "Bahay na Bato",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_01.jpg",
-    "price": 120,
-    "priceCurrency": "PHP",
-    "lat": 16.847224,
-    "lng": 120.351725
-  }
+    "name": "Intramuros, Manila",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
+    "distance": 197km,
+    "lat": 14.590367,
+    "lng": 120.975748
+  }, {
+    "name": "Ocean Park, Manila",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
+    "distance": 195km,
+    "lat": 14.579498,
+    "lng": 120.972527
+  },
+  {
+    "name": "Magellan's Cross, Cebu",
+    "imageUrl": "http://www.cebucitytour.com/wp-content/uploads/2016/01/IMG_7502.jpg",
+    "distance": 1018km,
+    "lat": 10.293633,
+    "lng": 123.901958
+  },
+  {
+    "name": "Cagsawa Ruins, Albay",
+    "imageUrl": "https://i.pinimg.com/originals/58/58/65/585865711dbba907acc09448007544ca.jpg",
+    "distance": 654km,
+    "lat": 13.166146,
+    "lng": 123.701132
+  },
+  {
+    "name": "Windmills, Bangui",
+    "imageUrl": "https://i.pinimg.com/originals/58/58/65/585865711dbba907acc09448007544ca.jpg",
+    "distance": 654km,
+    "lat": 18.529735,
+    "lng": 120.689204
+  },
+  {
+    "name": "Baguio, Benguet",
+    "imageUrl": "https://cdn-images-1.medium.com/max/1281/1*gGlN-GNPlBNyZSmTcxAV5Q.jpeg",
+    "distance": 93km,
+    "lat": 16.407759,
+    "lng": 120.595916
+  },
+  {
+    "name": "Chocolate Hills, Bohol",
+    "imageUrl": "https://dw8stlw9qt0iz.cloudfront.net/XuPBnCeozOQXoz6w3oqeVPVvz18=/fit-in/800x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/65ad9ac0-0455-4086-a4f4-1245f697d10e.png",
+    "distance": 1089km,
+    "lat": 16.407759,
+    "lng": 120.595916
+  },
+  {
+    "name": "Siargao Island, ",
+    "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/04/magpupungko.jpg",
+    "distance": 1369km,
+    "lat": 9.855575,
+    "lng": 126.045391
+  },
+  {
+    "name": "Resorts World, Manila",
+    "imageUrl": "https://lh5.googleusercontent.com/rTguLyzI0fy7U9ILwdS97G95ITlQ7mGXtKc83BBcWIihZ00dR4EUJ8ENkIIJXCl2cNdoIhchiEHvp2JV56-2Q7uSuJDFtqba23uLQw-1Xou6qKEg2OoA2BK7UetZHjfI1Zd6gjWhY6VgQUd0cQ",
+    "distance": 1369km,
+    "lat": 9.855575,
+    "lng": 126.045391
+  },
+  {
+    "name": "Venice Grand Canal, Manila",
+    "imageUrl": "https://i0.wp.com/www.edpuno.com/wp-content/uploads/2016/07/Venice-Grand-Canal-BGC.jpg",
+    "distance": 207km,
+    "lat": 14.533875,
+    "lng": 121.051078
+  },
 ]
