@@ -1,12 +1,14 @@
 [
   {
-    "name": "San Juan Beach, La Union",
+    "id": 1,
+    "name": "Bahay Ko!, Tayug Pangasinan",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmvRoSzwrwxMlcX51qgDvPwdVrC8FjAVyZnfbhqxCuAcotsqu",
     "price": 108,
-    "lat": 16.658495, 
-    "lng": 120.321445
+    "lat": 16.025869, 
+    "lng": 120.741647
   },
   {
+    "id": 2,
     "name": "Mall of Asia, Pasay",
     "imageUrl": "http://www.lamudi.com.ph/journal/wp-content/uploads/2015/10/Mall-of-Asia-Complex-as-the-Next-Leading-Business-and-Leisure-District_shutterstock.jpg",
     "price": 201,
@@ -14,6 +16,7 @@
     "lng": 120.982109
   },
   {
+    "id": 3,
     "name": "Palace in the Sky, Laguna",
     "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/03/PalaceintheSky_08.jpg",
     "price": 252,
@@ -21,6 +24,7 @@
     "lng": 120.961563
   },
   {
+    "id": 4,
     "name": "Enchanted Kingdom",
     "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2015/12/IMG_1306.jpg",
     "price": 239,
@@ -28,6 +32,7 @@
     "lng": 121.096709
   },
    {
+    "id": 5,
     "name": "Hanging Coffins, Sagada",
     "imageUrl": "https://c4.staticflickr.com/6/5443/30829383395_36d59547be_b.jpg",
     "price": 238,
@@ -35,6 +40,7 @@
     "lng": 120.905644
   },
   {
+    "id": 6,
     "name": "Ocean Adventures, Subic",
     "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
     "price": 197,
@@ -42,12 +48,15 @@
     "lng": 120.253252 
   },
   {
+    "id": 7,
     "name": "Intramuros, Manila",
     "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
     "price": 197,
     "lat": 14.590367,
     "lng": 120.975748
-  }, {
+  }, 
+  {
+    "id": 8,
     "name": "Ocean Park, Manila",
     "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
     "price": 195,
@@ -55,6 +64,7 @@
     "lng": 120.972527
   },
   {
+    "id": 9,
     "name": "Magellan's Cross, Cebu",
     "imageUrl": "http://www.cebucitytour.com/wp-content/uploads/2016/01/IMG_7502.jpg",
     "price": 1018,
@@ -62,6 +72,7 @@
     "lng": 123.901958
   },
   {
+    "id": 10,
     "name": "Cagsawa Ruins, Albay",
     "imageUrl": "https://i.pinimg.com/originals/58/58/65/585865711dbba907acc09448007544ca.jpg",
     "price": 654,
@@ -69,6 +80,7 @@
     "lng": 123.701132
   },
   {
+    "id": 11,
     "name": "Windmills, Bangui",
     "imageUrl": "https://i.pinimg.com/originals/58/58/65/585865711dbba907acc09448007544ca.jpg",
     "price": 654,
@@ -76,6 +88,7 @@
     "lng": 120.689204
   },
   {
+    "id": 12,
     "name": "Baguio, Benguet",
     "imageUrl": "https://cdn-images-1.medium.com/max/1281/1*gGlN-GNPlBNyZSmTcxAV5Q.jpeg",
     "price": 93,
@@ -83,6 +96,7 @@
     "lng": 120.595916
   },
   {
+    "id": 13,
     "name": "Chocolate Hills, Bohol",
     "imageUrl": "https://dw8stlw9qt0iz.cloudfront.net/XuPBnCeozOQXoz6w3oqeVPVvz18=/fit-in/800x450/filters:format(jpeg):quality(75)/curiosity-data.s3.amazonaws.com/images/content/landscape/standard/65ad9ac0-0455-4086-a4f4-1245f697d10e.png",
     "price": 1089,
@@ -90,6 +104,7 @@
     "lng": 120.595916
   },
   {
+    "id": 14,
     "name": "Siargao Island, ",
     "imageUrl": "http://primer.com.ph/travel/wp-content/uploads/sites/6/2016/04/magpupungko.jpg",
     "price": 1369,
@@ -97,6 +112,7 @@
     "lng": 126.045391
   },
   {
+    "id": 15,
     "name": "Resorts World, Manila",
     "imageUrl": "https://lh5.googleusercontent.com/rTguLyzI0fy7U9ILwdS97G95ITlQ7mGXtKc83BBcWIihZ00dR4EUJ8ENkIIJXCl2cNdoIhchiEHvp2JV56-2Q7uSuJDFtqba23uLQw-1Xou6qKEg2OoA2BK7UetZHjfI1Zd6gjWhY6VgQUd0cQ",
     "price": 1369,
@@ -104,6 +120,7 @@
     "lng": 126.045391
   },
   {
+    "id": 16,
     "name": "Venice Grand Canal, Manila",
     "imageUrl": "https://i0.wp.com/www.edpuno.com/wp-content/uploads/2016/07/Venice-Grand-Canal-BGC.jpg",
     "price": 207,
