@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Bahay Ko!, Tayug Pangasinan",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmvRoSzwrwxMlcX51qgDvPwdVrC8FjAVyZnfbhqxCuAcotsqu",
+    "imageUrl": "https://c1.staticflickr.com/7/6144/6028786510_94e9ebcbc3_b.jpg",
     "price": 108,
     "lat": 16.025869, 
     "lng": 120.741647
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "name": "Intramuros, Manila",
-    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/01/77/9e/7b/manila.jpg",
     "price": 197,
     "lat": 14.590367,
     "lng": 120.975748
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "name": "Ocean Park, Manila",
-    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/61748_2.jpg",
+    "imageUrl": "http://static.asiawebdirect.com/m/phuket/portals/philippines-hotels-ws/homepage/manila/manila-ocean-park/pagePropertiesImage/manila-ocean-park.jpg.jpg",
     "price": 195,
     "lat": 14.579498,
     "lng": 120.972527
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "name": "Windmills, Bangui",
-    "imageUrl": "https://i.pinimg.com/originals/58/58/65/585865711dbba907acc09448007544ca.jpg",
+    "imageUrl": "https://i.ytimg.com/vi/fZPzJCRwfnY/hqdefault.jpg",
     "price": 654,
     "lat": 18.529735,
     "lng": 120.689204
